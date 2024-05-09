@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\bin\Debug\Vehicle_gui.exe.config
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\bin\Debug\Vehicle_gui.exe
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\bin\Debug\Vehicle_gui.pdb
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.Properties.Resources.resources
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.exe
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.pdb
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\bin\Debug\Vehicles_.dll
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\bin\Debug\Vehicles_.pdb
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.csproj.CopyComplete
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.Total_sum.resources
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.Edit_form.resources
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_gui\Vehicle_gui\obj\Debug\Vehicle_gui.Add_form.resources

@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\bin\Debug\net6.0\Vehicle_Console.exe
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\bin\Debug\net6.0\Vehicle_Console.deps.json
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\bin\Debug\net6.0\Vehicle_Console.runtimeconfig.json
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\bin\Debug\net6.0\Vehicle_Console.dll
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\bin\Debug\net6.0\Vehicle_Console.pdb
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\Vehicle_Console.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\Vehicle_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\Vehicle_Console.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\Vehicle_Console.AssemblyInfo.cs
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\Vehicle_Console.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\Vehicle_Console.dll
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\refint\Vehicle_Console.dll
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\Vehicle_Console.pdb
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\Vehicle_Console.genruntimeconfig.cache
+C:\Users\pc\source\repos\ТПУ\Vehicle_Console\Vehicle_Console\obj\Debug\net6.0\ref\Vehicle_Console.dll
