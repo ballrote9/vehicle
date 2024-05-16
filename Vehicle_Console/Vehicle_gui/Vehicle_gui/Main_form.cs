@@ -25,7 +25,7 @@ namespace Vehicle_gui
     {
         public Main_form()
         {
-
+            this.CenterToParent();
             InitializeComponent();
 
             string[] bus_53_stations = { "Horticultural Society \"Spring\"", "Vetrovaya", "Stepnaya", "Toyanovskaya", "Yuzhnyye vorota", "Stepanovskiy per", "Volgogradskaya", "Prirechnaya" };
@@ -55,6 +55,7 @@ namespace Vehicle_gui
             int count_of_vehicles = Data_store.vehicle_items.Count;
 
             Add_form form2 = new Add_form();
+            form2.Owner = this;
             form2.ShowDialog();
 
             if (count_of_public_transport != Data_store.public_transport_items.Count)

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\ТПУ\\Vehicle_Console\\Vehicle_Console\\Vehicle_Console.csproj",
+      "projectUniqueName": "C:\\git\\transport\\Vehicle_Console\\Vehicle_Console\\Vehicle_Console.csproj",
       "projectName": "Vehicle_Console",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\ТПУ\\Vehicle_Console\\Vehicle_Console\\Vehicle_Console.csproj",
+      "projectPath": "C:\\git\\transport\\Vehicle_Console\\Vehicle_Console\\Vehicle_Console.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\ТПУ\\Vehicle_Console\\Vehicle_Console\\obj\\",
+      "outputPath": "C:\\git\\transport\\Vehicle_Console\\Vehicle_Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Microsoft\\Microsoft Visual Studio\\Shared\\NuGetPackages"
