@@ -26,6 +26,7 @@ namespace Vehicle_gui
         public Main_form()
         {
             this.CenterToParent();
+
             InitializeComponent();
 
             string[] bus_53_stations = { "Horticultural Society \"Spring\"", "Vetrovaya", "Stepnaya", "Toyanovskaya", "Yuzhnyye vorota", "Stepanovskiy per", "Volgogradskaya", "Prirechnaya" };
