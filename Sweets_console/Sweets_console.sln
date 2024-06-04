@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sweets_console", "Sweets_console\Sweets_console.csproj", "{563551AF-0C57-48F9-AB59-9EA9CE7C866D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sweets_gui", "Sweets_gui\Sweets_gui.csproj", "{D28A2DC8-7CDC-4DC7-883D-BBB0D6F66E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{563551AF-0C57-48F9-AB59-9EA9CE7C866D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563551AF-0C57-48F9-AB59-9EA9CE7C866D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563551AF-0C57-48F9-AB59-9EA9CE7C866D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563551AF-0C57-48F9-AB59-9EA9CE7C866D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28A2DC8-7CDC-4DC7-883D-BBB0D6F66E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28A2DC8-7CDC-4DC7-883D-BBB0D6F66E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28A2DC8-7CDC-4DC7-883D-BBB0D6F66E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28A2DC8-7CDC-4DC7-883D-BBB0D6F66E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6CF96C2-7F49-4203-9F91-FC472CC0DBFC}
+	EndGlobalSection
+EndGlobal
